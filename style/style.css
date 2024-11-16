@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.main h1 {
+    margin: 20px 0;
+    align-self: center;
+    color: #8c3e08;
+}
+
+.main h3 {
+    margin: 20px 0;
+    align-self: center;
+    color: #8c3e08;
+}
+
+.main p {
+    text-indent: 50px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #FFA500;
+}
+
+.main p a {
+    text-decoration: underline;
+    cursor: pointer;
+    color: #8c3e08;
+}
